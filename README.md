@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://avatars2.githubusercontent.com/u/5411890" alt="MultiMC logo"/>
+  <img src="https://kommodo.ai/i/uL9br1xiFpzLPKBjG9wr" alt="Crack Launcher logo"/>
 </p>
 
 Crack Lunncher

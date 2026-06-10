@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="crack 256x256.png" alt="Crack Launcher logo"/>
+  <img src="crack-256x256.png" alt="Crack Launcher logo"/>
 </p>
 
 Crack Lunncher

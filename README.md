@@ -1,5 +1,4 @@
 <p align="center">
-  <img src="google.com" alt="Crack Launcher logo"/>
 </p>
 
 Crack Lunncher

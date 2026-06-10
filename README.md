@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://kommodo.ai/i/uL9br1xiFpzLPKBjG9wr" alt="Crack Launcher logo"/>
+  <img src="https://ibb.co/yFzG1dK1" alt="Crack Launcher logo"/>
 </p>
 
 Crack Lunncher

@@ -2,10 +2,10 @@
   <img src="https://avatars2.githubusercontent.com/u/5411890" alt="MultiMC logo"/>
 </p>
 
-MultiMC
+Crack Lunncher
 =======
 
-MultiMC is a custom launcher for Minecraft that focuses on predictability, long term stability and simplicity.
+Crack Launcher is a custom launcher for Minecraft that focuses on predictability, long term stability and simplicity and based in UltimMc 5.
 
 ## Development
 If you want to contribute, talk to us on [Discord](https://discord.gg/multimc) first.
@@ -31,7 +31,7 @@ In general, in order of importance:
 Translations can be done [on crowdin](https://translate.multimc.org). Please avoid making direct pull requests to the translations repository.
 
 ## License
-Copyright &copy; 2013-2022 MultiMC Contributors
+Copyright &copy; 2013-2022 UltimMC 5 Contributors
 
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use this program except in compliance with the License. You may obtain a copy of the License at [http://www.apache.org/licenses/LICENSE-2.0](http://www.apache.org/licenses/LICENSE-2.0).
 
